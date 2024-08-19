@@ -1,0 +1,28 @@
+name: M3U Playlist Generator
+
+on:
+  schedule:
+    # This cron expression schedules the job to run every 2 hours
+    - cron: "0 */2 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests schedule
+
+    - name: Run M3U Playlist Generator
+      run: |
+        python generator.py
