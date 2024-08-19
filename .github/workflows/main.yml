@@ -21,8 +21,10 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests schedule
+        pip install requests
 
     - name: Run M3U Playlist Generator
-      run: |
-        python generator.py
+      run: python generator.py
+      env:
+        PLAYLIST_URL: ${{ secrets.PLAYLIST_URL }}  # Using the secret for playlist URL
+        OUTPUT_FILE: ${{ secrets.OUTPUT_FILE }}    # Using the secret for output file name
