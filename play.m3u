@@ -1,14 +1,14 @@
 
 #EXTM3U playlists by StreamHub 
-#EXTINF:-1 group-title="WELLCOME StreamHub" tvg-logo="https://i.ibb.co/G0Pq6Qd/IMG-20240406-195157-295.jpg",Welcome StreamHub
+#EXTINF:-1 group-title="WELLCOME StreamHub" tvg-logo="https://raw.githubusercontent.com/AJ-Ashik/API/main/Colorful%20Abstract%20Illustrative%20Gradient%20Stream%20Studio%20Logo_20240803_030057_0000.png",Welcome StreamHub
 https://test-tan-iota-90.vercel.app/live/app/freeiptv25_livetv.mp4
-#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 1
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://raw.githubusercontent.com/AJ-Ashik/API/main/Colorful%20Abstract%20Illustrative%20Gradient%20Stream%20Studio%20Logo_20240803_030057_0000.png",24x7 Music 1
 http://ekdilhai.pro/TSER247/index.m3u8?token=0cbea10cc47827e277030f670d7d2e38 
-#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 2
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://raw.githubusercontent.com/AJ-Ashik/API/main/Colorful%20Abstract%20Illustrative%20Gradient%20Stream%20Studio%20Logo_20240803_030057_0000.png",24x7 Music 2
 http://ekdilhai.pro/zecVOD24/7/index.m3u8?token=7bfe7b53df94757233ab8927bc838086
-#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 3
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://raw.githubusercontent.com/AJ-Ashik/API/main/Colorful%20Abstract%20Illustrative%20Gradient%20Stream%20Studio%20Logo_20240803_030057_0000.png",24x7 Music 3
 http://ekdilhai.pro/tipsVOD24/7/index.m3u8?token=925d21132cd84d96f64b14f205076d96 
-#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 4
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://raw.githubusercontent.com/AJ-Ashik/API/main/Colorful%20Abstract%20Illustrative%20Gradient%20Stream%20Studio%20Logo_20240803_030057_0000.png",24x7 Music 4
 http://ekdilhai.pro/zp1247/index.m3u8?token=ffcad025fb93241063a6b781e1fb663c 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg",ATN Bangla 
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=nxbXq9WYFlt3kx0U53QN9g&expires=1724333346&user=d477246e9e724f81a011b847457e71c4 
