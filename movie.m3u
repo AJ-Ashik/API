@@ -1,3 +1,69 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="" group-title="Bangla Dabbing Movies",KGF Chapter 1
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Kalki_2898_AD.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",  Kalki 2898 AD
 http://103.112.150.230/Data/disk1/movies/bollywood/2024/Kalki 2898 AD (2024)/Kalki 2898 AD.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sarfira_film_poster.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",     Sarfira
+http://103.112.150.230/Data/disk1/movies/bollywood/2024/Sarfira (2024)/Sarfira.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Kill_poster.jpeg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀", Kill
+http://103.112.150.230/Data/disk1/movies/bollywood/2024/Kill (2023)/Kill.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",Deadpool & Wolverine
+http://103.112.150.230/Data/disk1/movies/hollywood/2024/Deadpool & Wolverine (2024)/Deadpool & Wolverine.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/The_Greatest_of_All_Time.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",The Greatest of All Time
+http://103.145.232.246/Data/movies/Tamil/2024/The%20Greatest%20of%20All%20Time%20(2024)/The%20Greatest%20of%20All%20Time.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Maharshi_poster.jpg/440px-Maharshi_poster.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",Maharshi
+http://103.145.232.246/Data/movies/Hindi%20dubbed/Maharshi%20(2019)/Maharshi.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Transformers-_Rise_of_the_Beasts.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",Transformers: Rise of the Beasts
+http://royalflix.net/Data/disk1/movies/hollywood/2023/Transformers%20Rise%20of%20the%20Beasts%20%282023%29/Transformers%20Rise%20of%20the%20Beasts.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Fighter_film_teaser.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",Fighter
+http://103.112.150.230/Data/disk1/movies/bollywood/2024/Fighter (2024)/Fighter.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",Animal
+http://103.112.150.230/Data/disk1/movies/bollywood/2023/Animal (2023)/Animal.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/Bad_Newz_poster.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",Bad Newz
+http://103.112.150.230/Data/disk1/movies/bollywood/2024/Bad Newz (2024)/Bad Newz.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Stree_2.jpg" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",Stree 2
+http://103.112.150.230/Data/disk1/movies/bollywood/2024/Stree 2 (2024)/Stree 2.mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Family_Star_Poster.png" group-title="𝗠𝗼𝘃𝗶𝗲𝘀",The Family Star
+http://103.112.150.230/Data/disk1/movies/hindidub/Family Star (2024)/Family Star (2024).mp4
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Kung_Fu_Panda_4_poster.jpg" group-title="𝗔𝗻𝗶𝗺𝗲",Kung Fu Panda 4
+http://103.112.150.230/Data/disk1/movies/animation/new/Kung Fu Panda 4 (2024)/Kung Fu Panda 4.mp4
+
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/024/539/non_2x/tom-and-jerry-cartoon-free-vector.jpg" group-title="𝗔𝗻𝗶𝗺𝗲",Tom and Jerry: Snowman's Land
+http://royalflix.net/Data/disk2/movies/animaton/new/Tom%20And%20Jerry%20Snowmans%20Land%20(2022)/Tom.And.Jerry.Snowmans.Land.2022.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Sonic_the_Hedgehog_2_film_poster.jpg" group-title="𝗔𝗻𝗶𝗺𝗲",Sonic the Hedgehog 2
+http://royalflix.net/Data/disk2/movies/animaton/new/Sonic%20The%20Hedgehog%202%20(2022)/Sonic.The.Hedgehog.2.2022.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/The_Monkey_King_2023_film_poster.jpg" group-title="𝗔𝗻𝗶𝗺𝗲",Kung Fu Panda 4
+http://103.112.150.230/Data/disk1/movies/animation/new/The Monkey King (2023)/The.Monkey.King.2023.720p.WEBRip.x264.AAC-[YTS.MX].mp4
