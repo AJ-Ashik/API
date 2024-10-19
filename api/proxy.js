@@ -1,4 +1,3 @@
-// api/proxy.js
 import fetch from 'node-fetch';
 
 export default async function handler(req, res) {
@@ -14,11 +13,15 @@ export default async function handler(req, res) {
 
   try {
     const response = await fetch(url, { headers });
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    
     const body = await response.body;
-
     res.setHeader('Content-Type', 'application/vnd.apple.mpegurl');
-    body.pipe(res);  // Stream the m3u8 file directly to the client
+    body.pipe(res);
   } catch (error) {
+    console.error('Error fetching the stream:', error);
     res.status(500).send('Error fetching the stream');
   }
 }
